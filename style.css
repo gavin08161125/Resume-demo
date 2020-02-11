@@ -1,0 +1,133 @@
+.clearfix{
+    clear: both;
+}
+
+body{
+    background-color: #F1F1F1
+}
+.main-sectoin{
+    max-width: 1200px;
+    margin: 25px auto;
+}
+
+.main-sectoin img {
+    width: 200px;  
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.main-sectoin .left-content {
+    width: 28%;
+    float: left;
+    margin-right: 2%;
+}
+
+.left-body{
+    background-color: mediumaquamarine;
+    text-align: center;
+    border-radius: 7px 7px 0 0;
+}
+
+.left-body h1{
+    font-size: 2em;
+    font-weight: 200;
+}
+
+.left-body h2{
+    font-size: 1.2em;
+    font-weight: 200;
+    color: gray;
+}
+
+.left-body i{
+    font-size: 1.5em;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+.left-footer {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:20px;
+    border-radius: 0 0 7px 7px ;
+}
+
+.left-footer a{
+    font-size: 1.2em;
+    color: white;
+    background-color: #0285ab;
+    text-decoration: none;
+    font-weight: 200;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    display: block;
+    border-radius: 24px;
+}
+
+.main-sectoin .right-content{
+    width: 70%;
+    float: left;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    box-shadow:1px 1px 2px rgba(0,0,0,0.2), -1px -1px 2px rgba(0,0,0,0.2);
+
+}
+.right-content .top-content h1{
+    font-weight: 200;
+    margin-top: 35px;
+}
+
+.right-content .top-content P{
+    line-height: 27px; 
+    color: gray;
+    padding-bottom: 15px;
+}
+
+.sub-content .sleft-content{
+    width: 50%;
+    float: left;
+}
+
+.sub-content .sleft-content h3{
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+.sub-content .sleft-content li{
+    line-height: 40px;
+    font-weight: 300;
+}
+
+.sub-content .sleft-content i{
+    font-size: 1.2em;
+    color: gray;
+    margin-right: 10px;
+}
+
+.sub-content .sright-content{
+    width: 50%;
+    float: left;
+}
+
+.sub-content .sright-content h3{
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+.sub-content .sright-content li{
+    line-height: 40px;
+    font-weight: 300;
+}
+
+.sub-content .sright-content i{
+    font-size: 1.2em;
+    color: gray;
+    margin-right: 10px;
+}

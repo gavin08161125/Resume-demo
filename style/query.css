@@ -1,0 +1,73 @@
+@media (max-width: 800px) {
+    .main-sectoin .left-content {
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+
+    .main-sectoin .right-content{
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+}
+@media (max-width:799px) and (min-width: 601px) {
+    .main-sectoin .left-content {
+        width: 94%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 15px;
+    }
+    .main-sectoin .right-content{
+        width: 94%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .main-sectoin .left-content {
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+
+    .main-sectoin .right-content{
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+}
+
+@media (max-width: 420px) {
+    .sub-content .sleft-content {
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+
+    .main-sectoin .sright-content{
+        width: 96%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+}
+
+@media (min-width:1020px) {
+    .main-sectoin .left-content {
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+
+    .main-sectoin .right-content{
+        margin-right: auto;
+        margin-left: auto;
+        margin-left: 7px;
+    }
+}
